@@ -1,4 +1,4 @@
 gauge
 =====
 
-Gague-reading code for the raspberry pi.
+Gauge-reading code for the raspberry pi.
